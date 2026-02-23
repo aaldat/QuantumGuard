@@ -22,7 +22,6 @@ The scanner grades endpoints based on their vulnerability to specific quantum an
 
 ## Installation
 ```bash
-# Install dependencies (Scapy, Cryptography, Rich, Typer)
 pip install -r requirements.txt
 ```
 
