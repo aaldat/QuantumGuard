@@ -29,3 +29,6 @@ pip install -r requirements.txt
 ```bash
 python main.py <domain_or_IP_address>
 ```
+
+## Output Sample
+![Output sample](OutputSample.png)
