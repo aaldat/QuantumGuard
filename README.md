@@ -1,5 +1,7 @@
 # QuantumGuard: PQC-Aware Vulnerability Scanner
 
+[![Status](https://img.shields.io/badge/Status-Development-orange)](#)
+
 A cybersecurity auditing tool designed for the **Post-Quantum transition**. 
 
 ## Objectives:
